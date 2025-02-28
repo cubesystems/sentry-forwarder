@@ -1,9 +1,0 @@
-{
-  "require": {
-    "guzzlehttp/guzzle": "^7.0",
-    "slim/slim": "^4.0",
-    "ext-json": "*",
-    "ext-zlib": "*",
-    "symfony/yaml": "^7.1"
-  }
-}

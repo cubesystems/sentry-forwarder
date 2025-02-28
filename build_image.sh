@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-TAG=cubesystems/sentry-forwarder:1.0
+TAG=cubesystems/sentry-forwarder:2.0
 
 docker buildx build . \
   -t $TAG \
